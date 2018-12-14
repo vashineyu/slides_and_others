@@ -1,0 +1,14 @@
+name: ds_env_cpu
+dependencies:
+  - python=3.6
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
+  - opencv
+  - scikit-learn
+  - tensorflow=1.10
+  - keras
+  - h5py
+  - seaborn

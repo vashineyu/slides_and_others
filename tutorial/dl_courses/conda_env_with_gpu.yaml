@@ -1,0 +1,14 @@
+name: ds_env_gpu
+dependencies:
+  - python=3.6
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
+  - opencv
+  - scikit-learn
+  - tensorflow-gpu=1.10
+  - keras
+  - h5py
+  - seaborn
